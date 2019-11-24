@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Sep  1 10:22:40 2019
+Invocation: foremost out.png 
+Output directory: /home/rashad/ctf/boh19/epic/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: out.png
+Start: Sun Sep  1 10:22:40 2019
+Length: 271 KB (278358 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     262 KB 	          0 	  (620 x 465)
+Finish: Sun Sep  1 10:22:40 2019
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Sep  1 10:22:40 2019
